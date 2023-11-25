@@ -3,7 +3,7 @@ My first repository
 
 # **My Favorite Series:**
 <br/> The Suits 🕴️ 
-  >: Brilliant college dropout Mike Ross finds himself working with Harvey Specter, one of New York City's best lawyers.<br/>
+  > Brilliant college dropout Mike Ross finds himself working with Harvey Specter, one of New York City's best lawyers.<br/>
 > <br/>Cast:
 >- Gabriel Macht As Harvey Specter 
 >- Patrick J. Adams As Michael Ross 
